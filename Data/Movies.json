@@ -2,8 +2,8 @@
   "spring_movie_0": {
     "ID": null,
     "SheetIndex": 0,
-    "Title": "The Brave Little Sapling",
-    "Description": "An animated family comedy about a little sprout on a magical adventure to become a tree!",
+    "Title": "ต้นกล้าน้อยจอมกล้าหาญ",
+    "Description": "ภาพยนตร์การ์ตูนแนวครอบครัวตลกเกี่ยวกับต้นกล้าน้อยกับผจญภัยมหัศจรรย์เพื่อจะเป็นต้นไม้!",
     "Tags": [
       "family",
       "comedy"
@@ -15,7 +15,7 @@
         "Sound": "",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "The Brave Little Sapling",
+        "Text": "ต้นกล้าน้อยจอมกล้าหาญ",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_0"
@@ -26,7 +26,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "The brave little sapling is leaving his home. He hesitates for a moment and turns around, knowing he won't be back for a long time...",
+        "Text": "ต้นกล้าตัวน้อยที่กล้าหาญกำลังออกจากบ้านของเขา เขาลังเลอยู่ครู่หนึ่งแล้วหันไปรอบ ๆ รู้ว่าเขาจะไม่กลับมาอีก...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_1"
@@ -37,7 +37,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound dustMeep/pause 200/playSound dustMeep/pause 300/playSound dustMeep/pause 100/playSound dustMeep/pause 200/playSound dustMeep",
-        "Text": "The other saplings of his grove are gathered at the edge of town, excitedly waving their twigs goodbye...!",
+        "Text": "ต้นกล้าต้นอื่นรวมตัวกันที่ขอบเมืองเเล้วโบกมือลาอย่างตื่นเต้น...!",
         "Shake": false,
         "ResponsePoint": "sprout_leave",
         "ID": "spring0_2"
@@ -48,7 +48,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Oh no! Out of nowhere, it starts raining...! The little sapling goes into a sprint as thunderclouds loom overhead...",
+        "Text": "ไม่นะ!  มันจะเริ่มฝนตก ... !  ต้นอ่อนตัวเล็ก ๆ เริ่มวิ่งกันในขณะที่เสียงฟ้าร้องดังขึ้นอยู่เหนือหัว...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_3"
@@ -59,7 +59,7 @@
         "Sound": "thunder",
         "MessageDelay": 1000,
         "Script": "",
-        "Text": "Fearing for his life, and demoralized by the relentless downpour, the brave little sapling begins to lose hope...",
+        "Text": "ความกลัวในจิตใจเเละขวัญเสียจากหายนะทำให้ต้นกล้าเริ่มหมดความหวัง...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "spring0_4"
@@ -70,7 +70,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "...But what's this...? The sapling feels a tingling on the top of his head... ",
+        "Text": "...แต่นี่คืออะไร...? ต้นกล้าตัวน้อยรู้สึกเสียวซ่าบนหัวของเขา...",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "spring0_5"
