@@ -245,13 +245,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hey, kid. Thanks for inviting me."
+            "Text": "เฮ้เด็ก ๆ ขอบคุณที่เชิญฉันนะ"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Heh, that wasn't too bad!"
+            "Text": "เฮ้นั่นมันก็ไม่ได้แย่เกินจนไป!"
           }
         },
         "ID": "reaction_0"
