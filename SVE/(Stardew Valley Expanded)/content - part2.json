@@ -342,7 +342,7 @@
 	"Action": "EditData",
 	"Target": "data/events/farm",
 	"Entries": {
-	"7776004/f Apples 1500/w sunny": "continue/64 15/farmer 64 16 2 Apples 64 18 0/pause 1000/playSound junimoMeep1/pause 500/playSound junimoMeep1/pause 600/playSound junimoMeep1/jump Apples/pause 600/playSound junimoMeep1/speak Apples \"Apples have party for other-friends. Apples show new home!$0#$b#Apples-friend invited too! Come!$1\"/pause 500/end",
+	"7776004/f Apples 1500/w sunny": "continue/64 15/farmer 64 16 2 Apples 64 18 0/pause 1000/playSound junimoMeep1/pause 500/playSound junimoMeep1/pause 600/playSound junimoMeep1/jump Apples/pause 600/playSound junimoMeep1/speak Apples \"แอปเปิลมีปาร์ตี้ สำหรับเพื่อน ๆ ทุกคน แอปเปิล อยากโชว์บ้านใหม่!$0#$b#เชิญเพื่อน ๆ ของแอปเปิลด้วย! ต้องมานะ!$1\"/pause 500/end",
 	},
 },
 	
@@ -2610,7 +2610,7 @@
 	 "Action": "EditData",
 	 "Target": "data/events/sewer",
 	 "Entries": {
-     "1090504/f Krobus 1500/e 1090502": "Crystal Bells/-500 -500/farmer -200 -200 2 Krobus 14 20 1/addTemporaryActor Shadow_Brute 16 32 16 20 3 false Monster/pause 2000/skippable/viewport 16 19 true/pause 1000/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 800/playSound shadowpeep/pause 1100/playSound shadowpeep/pause 750/speak Krobus \"No no no... humans are our friends.\"/pause 300/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 500/playSound shadowpeep/pause 600/jump Krobus/pause 900/speak Krobus \"Yes! Good.$1\"/pause 300/playSound shadowpeep/pause 700/emote Krobus 32/pause 1000/playSound shadowpeep/pause 1000/warp farmer 16 11/playSound stairsdown/pause 750/playMusic Upper_Ambient/move farmer 0 1 2 true/pause 800/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 400/emote farmer 16/move Krobus 0 0 0 true/pause 350/playSound shadowpeep/pause 750/playSound shadowpeep/pause 300/move Krobus 1 0 0/move Krobus 0 -1 1/pause 150/speak Krobus \"Wait! This is my friend, @!\"/pause 400/playSound shadowpeep/pause 500/move Krobus 0 0 0/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 500/playSound shadowpeep/pause 600/emote Krobus 16 true/pause 300/emote farmer 16 true/pause 400/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 300/playSound shadowpeep/pause 500/move Krobus 0 -2 1/pause 300/speak Krobus \"@ won't harm you! It's okay!\"/pause 500/playSound shadowpeep/pause 300/emote farmer 16 true/pause 300/speed farmer 4/move farmer 0 -1 0/pause 100/warp farmer -300 -300/playSound stairsdown/faceDirection Krobus 0/emote Krobus 16 true/viewport move 0 -1 6000 true/advancedMove Shadow_Brute false 0 -2/globalFade/viewport -1000 -1000/stopMusic/pause 1700/message \"Krobus was trying to teach that shadow brute to be friendly. I should talk to Krobus.\"/pause 500/end dialogue Krobus \"I'm sorry you were attacked...#$b#That shadow person was Ozul, a new friend of mine. He isn't used to seeing humans... at least, ones that won't attack.#$b#I've been trying to befriend other shadow people in the mines.#$b#It's difficult teaching them to be friendly to humans. They're scared of your kind.$2#$e#They won't tell me exactly why...$2\"",
+     "1090504/f Krobus 1500/e 1090502": "Crystal Bells/-500 -500/farmer -200 -200 2 Krobus 14 20 1/addTemporaryActor Shadow_Brute 16 32 16 20 3 false Monster/pause 2000/skippable/viewport 16 19 true/pause 1000/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 800/playSound shadowpeep/pause 1100/playSound shadowpeep/pause 750/speak Krobus \"ไม่ ไม่ ไม่... มนุษย์เป็นเพื่อนของเรา\"/pause 300/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 500/playSound shadowpeep/pause 600/jump Krobus/pause 900/speak Krobus \"ใช่! เยี่ยม $1\"/pause 300/playSound shadowpeep/pause 700/emote Krobus 32/pause 1000/playSound shadowpeep/pause 1000/warp farmer 16 11/playSound stairsdown/pause 750/playMusic Upper_Ambient/move farmer 0 1 2 true/pause 800/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 400/emote farmer 16/move Krobus 0 0 0 true/pause 350/playSound shadowpeep/pause 750/playSound shadowpeep/pause 300/move Krobus 1 0 0/move Krobus 0 -1 1/pause 150/speak Krobus \"เดี๋ยวก่อน! นี้คือเพื่อนของข้า @!\"/pause 400/playSound shadowpeep/pause 500/move Krobus 0 0 0/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 500/playSound shadowpeep/pause 600/emote Krobus 16 true/pause 300/emote farmer 16 true/pause 400/viewport move 0 -1 1000 true/advancedMove Shadow_Brute false 0 -1/pause 300/playSound shadowpeep/pause 500/move Krobus 0 -2 1/pause 300/speak Krobus \"@ ไม่ทำร้ายเจ้า! ไม่เป็นไร!\"/pause 500/playSound shadowpeep/pause 300/emote farmer 16 true/pause 300/speed farmer 4/move farmer 0 -1 0/pause 100/warp farmer -300 -300/playSound stairsdown/faceDirection Krobus 0/emote Krobus 16 true/viewport move 0 -1 6000 true/advancedMove Shadow_Brute false 0 -2/globalFade/viewport -1000 -1000/stopMusic/pause 1700/message \"โครบัส พยายามบอกกับจิ๊กโก๋เงา ให้เป็นมิตร ฉันคิดว่า ฉันควรคุยกับโครบัส\"/pause 500/end dialogue Krobus \"ข้าขอโทษ ที่เจ้าถูกโจมตี...#$b#มนุษย์เงานั่นคือ โอซุล เพื่อนใหม่ของข้า เขาไม่เคยเห็นมนุษย์... หรืออาจจะ ไม่เคยเห็น ผู้คนที่ไม่โจมตีเขา#$b#ข้าพยายามเป็นเพื่อน กับคนอื่นในเหมือง#$b#เป็นเรื่องยาก ที่จะสอนให้พวกเขา เป็นมิตรกับมนุษย์ พวกเขากลัวเจ้า$2#$e#พวกเขาจะไม่บอกข้า ว่าทำไม...$2\"",
 	},
 },
         //(Just incase....)
@@ -2635,7 +2635,7 @@
 	 "Action": "EditData",
 	 "Target": "data/events/forestwest",
 	 "Entries": {
-     "1091881/e 418172": "none/-500 -500/farmer -100 -100 2/viewport 111 95 true/pause 2500/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/playSound junimoMeep1/globalFade/viewport -1000 -1000/pause 1000/message \"You sense a hidden pathway has opened...\"/pause 1000/end",
+     "1091881/e 418172": "none/-500 -500/farmer -100 -100 2/viewport 111 95 true/pause 2500/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/playSound junimoMeep1/globalFade/viewport -1000 -1000/pause 1000/message \"คุณรู้สึกได้ว่า เส้นทางที่ซ่อนอยู่ ได้เปิดออก...\"/pause 1000/end",
 	 },
 },
 
@@ -2652,7 +2652,7 @@
 	 "Action": "EditData",
 	 "Target": "data/events/treasurecave",
 	 "Entries": {
-     "1925178": "none/-300 -300/farmer 10 16 0/viewport 10 11 true/speed farmer 4/move farmer 0 -5 0 true/pause 500/playSound serpentDie/pause 600/playSound serpentDie/pause 100/move farmer 0 0 2/pause 300/startJittering/pause 700/playSound serpentDie/pause 1000/stopJittering/pause 1100/move farmer 0 0 0/pause 800/emote farmer 16/pause 450/speed farmer 1/move farmer 0 -1 0 true/pause 150/message \"VOICE: You just may be the one...\"/move farmer 0 0 2/pause 1100/move farmer 0 0 3/pause 1200/move farmer 0 0 2/pause 150/move farmer 0 0 2/pause 1000/move farmer 0 0 0/pause 800/message \"VOICE: *chuckle* You continue to impress me.\"/end position 10 11"
+     "1925178": "none/-300 -300/farmer 10 16 0/viewport 10 11 true/speed farmer 4/move farmer 0 -5 0 true/pause 500/playSound serpentDie/pause 600/playSound serpentDie/pause 100/move farmer 0 0 2/pause 300/startJittering/pause 700/playSound serpentDie/pause 1000/stopJittering/pause 1100/move farmer 0 0 0/pause 800/emote farmer 16/pause 450/speed farmer 1/move farmer 0 -1 0 true/pause 150/message \"เสียง: คุณอาจเป็นเพียงคนเดียว ...\"/move farmer 0 0 2/pause 1100/move farmer 0 0 3/pause 1200/move farmer 0 0 2/pause 150/move farmer 0 0 2/pause 1000/move farmer 0 0 0/pause 800/message \"เสียง: *คิก คิก* คุณยังคง ทำให้ฉันประทับใจเสมอ\"/end position 10 11"
 	  },
 },
 
@@ -2676,9 +2676,9 @@
 	 "Action": "EditData",
 	 "Target": "data/events/town",
 	 "Entries": {
-     "5532011/f Alex 125/w sunny/t 900 1600": "playful/-500 -500/farmer 49 73 1 Pam 79 68 1 Abigail 72 54 2 Pierre 48 59 3 Lewis 46 59 1 Penny 44 77 2 Andy 37 6 2/addTemporaryActor Dusty 16 32 -300 -300 2 true/showFrame Penny 34 true/animate Andy true true 120 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 34 35 35 35 35 35 35 35 35 35 35 35 35 34 33 32 32/skippable/pause 1000/viewport 54 70 true/move farmer 7 0 1/playSound dog_bark true/pause 1000/faceDirection farmer 2/faceDirection farmer 3/pause 400/emote farmer 8/pause 100/move farmer -2 0 0/move farmer 0 -2 0/pause 300/playSound dog_bark true/speak Dusty \"!!!$1\"/pause 200/emote farmer 32/pause 100/move farmer 0 -2 3/move farmer -1 0 0/pause 600/playSound dog_pant/pause 300/playSound dog_pant true/speak Dusty \"!!!$4\"/pause 1000/question fork0 \"#Pet Dusty#Don't pet Dusty\"/fork 5532011_PetDusty/pause 200/stopMusic/pause 300/speak Dusty \"...$2\"/pause 800/globalFade/viewport -1000 -1000/end",
+     "5532011/f Alex 125/w sunny/t 900 1600": "playful/-500 -500/farmer 49 73 1 Pam 79 68 1 Abigail 72 54 2 Pierre 48 59 3 Lewis 46 59 1 Penny 44 77 2 Andy 37 6 2/addTemporaryActor Dusty 16 32 -300 -300 2 true/showFrame Penny 34 true/animate Andy true true 120 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 34 35 35 35 35 35 35 35 35 35 35 35 35 34 33 32 32/skippable/pause 1000/viewport 54 70 true/move farmer 7 0 1/playSound dog_bark true/pause 1000/faceDirection farmer 2/faceDirection farmer 3/pause 400/emote farmer 8/pause 100/move farmer -2 0 0/move farmer 0 -2 0/pause 300/playSound dog_bark true/speak Dusty \"!!!$1\"/pause 200/emote farmer 32/pause 100/move farmer 0 -2 3/move farmer -1 0 0/pause 600/playSound dog_pant/pause 300/playSound dog_pant true/speak Dusty \"!!!$4\"/pause 1000/question fork0 \"#เอ็นดูดัสตี้#ไม่สนใจดัสตี้\"/fork 5532011_PetDusty/pause 200/stopMusic/pause 300/speak Dusty \"...$2\"/pause 800/globalFade/viewport -1000 -1000/end",
 	 
-	 "5532011_PetDusty": "pause 100/showFrame farmer 15/pause 500/playSound rabbit/playSound rabbit/pause 800/playSound rabbit/playSound rabbit/pause 500/playSound rabbit/playSound rabbit/pause 200/playSound dog_bark/pause 400/playSound dog_pant/pause 320/playSound dog_pant/pause 300/playSound dog_pant/speak Dusty \"!!!$0\"/pause 200/emote farmer 20 true/pause 200/globalFade/viewport -1000 -1000/friendship Alex 50/end dialogue \"Hey. Saw you petting Dusty.$1#$e#He's a good boy.$0\"",
+	 "5532011_PetDusty": "pause 100/showFrame farmer 15/pause 500/playSound rabbit/playSound rabbit/pause 800/playSound rabbit/playSound rabbit/pause 500/playSound rabbit/playSound rabbit/pause 200/playSound dog_bark/pause 400/playSound dog_pant/pause 320/playSound dog_pant/pause 300/playSound dog_pant/speak Dusty \"!!!$0\"/pause 200/emote farmer 20 true/pause 200/globalFade/viewport -1000 -1000/friendship Alex 50/end dialogue \"เฮ้ เห็นเธอลูบเจ้า ดัสตี้$1#$e#มันเป็นเด็กดี$0\"",
 	 },
 },
 
@@ -2686,7 +2686,7 @@
 	 "Action": "EditData",
 	 "Target": "data/events/MovieTheater",
 	 "Entries": {
-	 "015305930": "none/-500 -500/farmer -200 -200 0/pause 50/end dialogue Lewis \"That theater suddenly sprung up in town!$1#$e#Did you have something to do with it, @?$0#$e#Err. Maybe I should make some calls.$0\"",
+	 "015305930": "none/-500 -500/farmer -200 -200 0/pause 50/end dialogue Lewis \"โรงละครนั้น อยู่ดี ๆ มันก็ ผุดขึ้นมาในเมือง!$1#$e#คุณมีบางอย่าง ที่ต้องทำกับมันหรือเปล่า @?$0#$e#มันแปลก หรือบางที ผมควรจะปล่อยมันไป$0\"",
 	 },
 },
 
