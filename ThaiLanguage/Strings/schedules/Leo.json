@@ -16,10 +16,10 @@
         }
     ],
     "content": {
-        "winter_15.000": "I just like looking at the lights.#$b#It reminds me of something, long, long ago...$s",
-        "winter.000": "It's going to take a while, but I'm trying to get through all the books in the library.#$b#I have a lot of catching up to do...$s",
-        "school": "Can't talk right now, @. I have to really focus...",
-        "dinner": "Oh, are you hungry? I already finished all the food...$u",
-        "tent": "We don't mind the rain too much, but it's nice to dry off in here sometimes."
+		"winter_15.000": "ฉันชอบมองแสงไฟนะ #$b# มันทำให้ฉันนึกถึง.. #$b#บางอย่างที่นานมาแล้ว... $s",
+        "winter.000": "จะใช้เวลาสักพัก #$b#แต่ฉันก็กำลังพยายามอ่านหนังสือ.. #$b# ทั้งในหมดในห้องสมุด.. #$b# ฉันมีเรื่องต้องทำเยอะน่ะ... $s", 
+        "school": "คุยไม่ได้ตอนนี้, @. ฉันกำลังตั้งใจ...",
+        "dinner": "โอ้หิวไหม? ฉันทำอาหารกำลังเสร็จแล้ว... $u",
+		 "tent": "เราไม่สนใจฝนมากนัก.. #$b# บางครั้งที่นี่ก็แห้งดี" 
     }
 }
